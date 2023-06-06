@@ -1,2 +1,2 @@
 # Evidencia1
-Programa que realiza la administración de citas en un hospital.
+Programa que realiza la administración de citas  de un hospital.
